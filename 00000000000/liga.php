@@ -14,7 +14,7 @@
         <h3>Reprezentacja Polski w Piłce Nożnej</h3>
         <img src="obraz1.jpg" alt="reprezentacja">
     </header>
-    <div>
+    <div id="podzial">
         <div id="lewy">
             <form action="liga.php" method="post">
                 <select>
@@ -24,9 +24,9 @@
                     <option value="">Napastnicy</option>
                 </select>
                 <button type="submit">Zobacz</button>
-                <img src="zad2.png" alt="piłka">
-                <p>Autor: 00000000000</p>
             </form>
+            <img src="zad2.png" alt="piłka">
+            <p>Autor: 00000000000</p>
         </div>
         <div id="prawy">
             <ol>
@@ -38,6 +38,7 @@
         <h3>Liga mistrzów</h3>
     </main>
     <div id="liga">
+        <div id="druzuna"></div>
     </div>
 </body>
 
