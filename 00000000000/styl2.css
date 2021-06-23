@@ -21,13 +21,13 @@ div#podzial {
 }
 div#lewy {
     background-color: whitesmoke;
-    flex: 30%;
+    width: 30%;
     text-align: center;
     height: 150px;
 }
 div#prawy {
     background-color: whitesmoke;
-    flex: 70%;
+    width: 70%;
     height: 150px;
 }
 div#liga {
